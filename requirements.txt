@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-chroma
+langchain-community
+langchain-groq
+grandalf
+numpy
+pandas
+sentence-transformers
+langchain-core
+langchain-openai
+langchain-anthropic
+
