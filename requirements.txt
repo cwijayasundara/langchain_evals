@@ -10,4 +10,17 @@ sentence-transformers
 langchain-core
 langchain-openai
 langchain-anthropic
+tiktoken 
+langchainhub
+langgraph
+llama-index
+llama-index-core
+llama-parse
+openai
+llama-index-llms-anthropic
+llama_index.embeddings.huggingface
+giskard
+langchain-core
+ragas
+pyarrow
 
